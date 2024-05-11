@@ -1,0 +1,8 @@
+numpy
+scikit-learn
+matplotlib
+biosppy
+pyhrv
+scipy
+pandas
+japanize_matplotlib

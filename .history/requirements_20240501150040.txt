@@ -1,0 +1,12 @@
+numpy
+scikit-learn
+matplotlib
+biosppy
+pyhrv
+scipy
+pandas
+seaborn
+japanize_matplotlib
+imageio
+hrv-analysis
+astropy
